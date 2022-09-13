@@ -1,0 +1,6 @@
+[book]
+authors = ["zgcarvalho"]
+language = "pt_BR"
+multilingual = false
+src = "src"
+title = "HPC-LNBio"
